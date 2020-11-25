@@ -1,0 +1,7 @@
+C:\Users\douda\source\repos\TestBinaryreading\bin\Debug\TestBinaryreading.exe.config
+C:\Users\douda\source\repos\TestBinaryreading\bin\Debug\TestBinaryreading.exe
+C:\Users\douda\source\repos\TestBinaryreading\bin\Debug\TestBinaryreading.pdb
+C:\Users\douda\source\repos\TestBinaryreading\obj\Debug\TestBinaryreading.csprojAssemblyReference.cache
+C:\Users\douda\source\repos\TestBinaryreading\obj\Debug\TestBinaryreading.csproj.CoreCompileInputs.cache
+C:\Users\douda\source\repos\TestBinaryreading\obj\Debug\TestBinaryreading.exe
+C:\Users\douda\source\repos\TestBinaryreading\obj\Debug\TestBinaryreading.pdb
